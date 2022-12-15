@@ -1,0 +1,6 @@
+C:\Users\BLUEH\Source\Repos\databas-cicd-cloud\bin\Debug\002-Database.dacpac
+C:\Users\BLUEH\Source\Repos\databas-cicd-cloud\bin\Debug\_002_Database.dll
+C:\Users\BLUEH\Source\Repos\databas-cicd-cloud\bin\Debug\_002_Database.pdb
+C:\Users\BLUEH\Source\Repos\databas-cicd-cloud\obj\Debug\002-Database.sqlproj.AssemblyReference.cache
+C:\Users\BLUEH\Source\Repos\databas-cicd-cloud\obj\Debug\_002_Database.dll
+C:\Users\BLUEH\Source\Repos\databas-cicd-cloud\obj\Debug\_002_Database.pdb
